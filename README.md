@@ -32,7 +32,7 @@ If your role is relevant to the Vietnam startup ecosystem, it is welcome here.
 ## How to submit a new job post?
 
 1. Create a job post following the required format.  
-2. Opening a GitHub issue at https://github.com/chonstartup/jobs/issues/new
+2. Opening a GitHub issue at [https://github.com/chonstartup/jobs/issues/new](https://github.com/chonstartup/jobs/issues/new?template=job-openning.md)
 3. Your post will be reviewed and published once approved.
 
 ---
